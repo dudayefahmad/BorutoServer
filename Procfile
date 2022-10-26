@@ -1,0 +1,1 @@
+web: build/install/com.ahmaddudayef.borutoserver/bin/com.ahmaddudayef.borutoserver
